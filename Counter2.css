@@ -1,0 +1,29 @@
+.para{
+    font-size: 100px;
+    font-weight: 900;
+    font-family: roboto;
+}
+.head{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: roboto;
+    color: blue;
+    background-color: plum;
+}
+.btn{
+    width: 150px;
+    height: 46px;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: plum;
+    font-family: roboto;
+    font-size: 20px;
+    margin: 10px;
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightblue;
+}
